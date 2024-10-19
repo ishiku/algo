@@ -1,0 +1,2 @@
+# algo
+Solving programming challenges
